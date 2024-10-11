@@ -1,3 +1,3 @@
-# wso-webshells
+# wso-webshells password=admin
 wsp webshells
-password= admin
+
